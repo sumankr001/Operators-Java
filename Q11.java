@@ -6,5 +6,7 @@ public class Q11 {
         y -= x + z; // y = y - (x+z) 
         z *= x * y; 
         System.out.println("x = " +x );
+
+        
     }
 }
